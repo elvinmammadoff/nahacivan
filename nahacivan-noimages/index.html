@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Rafoz Farzo- Photography Portfolio Bootstrap 5 Template</title>
+	<title>Naha Civan - Photography Portfolio Bootstrap 5 Template</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -405,7 +405,7 @@
 											<h5>E-MAIL ADDRESS</h5>
 											<p>
                         <a href="#">office@gmail.com</a>
-                        <a href="#">rafozfarzo@gmail.com</a>
+                        <a href="#">nahacivan@gmail.com</a>
                       </p>
 										</div>
 										<div class="single-info">
@@ -420,21 +420,21 @@
 									<h2>Contact Form</h2>
 									<p>It is a long established fact that a reader will be distracted by the readable content of a page buildup</p>
 								</div>
-								<form action="mail.php" method="POST" id="contact-form" class="rafozfarzo-form">
-									<div class="rafozfarzo-form-inner">
-										<div class="rafozfarzo-form-input rafozfarzo-form-input-half">
+								<form action="mail.php" method="POST" id="contact-form" class="nahacivan-form">
+									<div class="nahacivan-form-inner">
+										<div class="nahacivan-form-input nahacivan-form-input-half">
 											<input type="text" name="name" placeholder="Name*" required>
 										</div>
-										<div class="rafozfarzo-form-input rafozfarzo-form-input-half">
+										<div class="nahacivan-form-input nahacivan-form-input-half">
 											<input type="email" name="email" placeholder="Email*" required>
 										</div>
-										<div class="rafozfarzo-form-input">
+										<div class="nahacivan-form-input">
 											<input type="text" name="subject" placeholder="Subject*" required>
 										</div>
-										<div class="rafozfarzo-form-input">
+										<div class="nahacivan-form-input">
 											<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
 										</div>
-										<div class="rafozfarzo-form-input">
+										<div class="nahacivan-form-input">
 											<button type="submit" class="button" data-content="Submit">
 												<span>Submit</span>
 											</button>
@@ -463,7 +463,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="footer-copyright">
-									<p>Copyright &copy; <a href="#">Rafoz Farzo</a> 2024. All Right Reserved</p>
+									<p>Copyright &copy; <a href="#">Naha Civan</a> 2024. All Right Reserved</p>
 								</div>
 							</div>
 						</div>

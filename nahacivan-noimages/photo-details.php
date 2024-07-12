@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Rafoz Farzo- Photography Portfolio Bootstrap 5 Template</title>
+	<title>Naha Civan - Photography Portfolio Bootstrap 5 Template</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="footer-copyright">
-                        <p>Copyright &copy; <a href="#">Rafoz Farzo</a> 2023. All Right Reserved</p>
+                        <p>Copyright &copy; <a href="#">Naha Civan</a> 2023. All Right Reserved</p>
                     </div>
                 </div>
             </div>
