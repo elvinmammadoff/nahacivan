@@ -99,7 +99,7 @@
 
 		<div id="fullpage">
 
-			<div class="section">
+			<div class="section" id="first-section">
 		
 				<!-- Hero Area -->
 				<div class="hero-area">
@@ -161,7 +161,7 @@
 
 			</div>
 
-			<div class="section">
+			<div class="section" id="second-section">
 				
 				<section id="about-area" class="cr-section about-area section-padding-xlg bg-image-4" data-white-overlay="9.5">
 					<div class="container">
@@ -187,7 +187,7 @@
 
 			</div>
 
-			<div class="section">
+			<div class="section" id="third-section">
 				
 				<section id="portfolio-area" class="cr-section portfolio-gallery-area section-padding-xlg">
 					<div class="container">
@@ -296,7 +296,7 @@
 
 			</div>
 
-			<div class="section">
+			<div class="section" id="fourth-section">
 
 				<section id="testimonial-area" class="cr-section testimonial-area section-padding-xlg bg-image-5" data-white-overlay="9.5">
 					<div class="container">
@@ -391,7 +391,7 @@
 
 			</div>
 
-			<div class="section">
+			<div class="section" id="fifth-section">
 
 				<!-- Contact Area -->
 				<section id="contact-area" class="cr-section contact-area section-padding-xlg bg-white">
