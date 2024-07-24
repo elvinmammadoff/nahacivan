@@ -66,23 +66,23 @@
                       <span></span>
                   </button>
                   <nav class="main-navigation">
-                    <ul class="section-name">
-                      <li data-menuanchor="first-section" class="active">
-                        <a href="index.html#first-section">Welcome</a>
-                      </li>
-                      <li data-menuanchor="second-section">
-                        <a href="index.html#second-section">About</a>
-                      </li>
-                      <li data-menuanchor="third-section">
-                        <a href="index.html#third-section">Portfolios</a>
-                      </li>
-                      <li data-menuanchor="fourth-section">
-                        <a href="index.html#fourth-section">Testimonials</a>
-                      </li>
-                      <li data-menuanchor="fifth-section">
-                        <a href="index.html#fifth-section">Contact</a>
-                      </li>
-                    </ul>
+					<ul class="section-name">
+						<li class="active">
+							<a href="#first-section">Welcome</a>
+						</li>
+						<li>
+							<a href="#second-section">About</a>
+						</li>
+						<li>
+							<a href="#third-section">Portfolios</a>
+						</li>
+						<li>
+							<a href="#fourth-section">Testimonials</a>
+						</li>
+						<li>
+							<a href="#fifth-section">Contact</a>
+						</li>
+					</ul>
                   </nav>
               </div>
           </div>

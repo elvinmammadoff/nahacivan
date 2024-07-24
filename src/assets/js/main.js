@@ -220,25 +220,25 @@
 
 
 	/* Fullpage Active */
-	$('#fullpage').fullpage({
-		menu: '.section-name',
-		navigation: true,
-		lockAnchors: false,
-		navigationPosition: 'right',
-		showActiveTooltip: false,
-		anchors:['first-section', 'second-section', 'third-section', 'fourth-section', 'fifth-section'],
-		verticalCentered: false,
-		responsiveWidth: 991,
-		scrollOverflow: true,
-		scrollBar: false,
-		onLeave: function(index, nextIndex, direction){
-            if(nextIndex > 1 && direction =='down'){
-                $('.header').addClass('is-sticky');
-            } else if(nextIndex === 1) {
-                $('.header').removeClass('is-sticky');
-            }
-        }
-	});
+	// $('#fullpage').fullpage({
+	// 	menu: '.section-name',
+	// 	navigation: false,
+	// 	lockAnchors: false,
+	// 	navigationPosition: 'right',
+	// 	showActiveTooltip: false,
+	// 	anchors:['first-section', 'second-section', 'third-section', 'fourth-section', 'fifth-section'],
+	// 	verticalCentered: true,
+	// 	responsiveWidth: 991,
+	// 	scrollOverflow: true,
+	// 	scrollBar: true,
+	// 	onLeave: function(index, nextIndex, direction){
+    //         if(nextIndex > 1 && direction =='down'){
+    //             $('.header').addClass('is-sticky');
+    //         } else if(nextIndex === 1) {
+    //             $('.header').removeClass('is-sticky');
+    //         }
+    //     }
+	// });
 
 
 

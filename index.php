@@ -5,7 +5,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<!-- Title -->
 	<title>Naha Civan - Photography Portfolio Bootstrap 5 Template</title>
+
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -67,11 +70,21 @@
 						</button>
 						<nav class="main-navigation">
 							<ul class="section-name">
-								<li data-menuanchor="first-section" class="active"><a href="#first-section">Welcome</a></li>
-								<li data-menuanchor="second-section"><a href="#second-section">About</a></li>
-								<li data-menuanchor="third-section"><a href="#third-section">Portfolios</a></li>
-								<li data-menuanchor="fourth-section"><a href="#fourth-section">Testimonials</a></li>
-								<li data-menuanchor="fifth-section"><a href="#fifth-section">Contact</a></li>
+								<li class="active">
+									<a href="#first-section">Welcome</a>
+								</li>
+								<li>
+									<a href="#second-section">About</a>
+								</li>
+								<li>
+									<a href="#third-section">Portfolios</a>
+								</li>
+								<li>
+									<a href="#fourth-section">Testimonials</a>
+								</li>
+								<li>
+									<a href="#fifth-section">Contact</a>
+								</li>
 							</ul>
 						</nav>
 					</div>
@@ -89,7 +102,7 @@
 
 		<div id="fullpage">
 
-			<div class="section" data-anchor="first-section">
+			<div class="section" id="first-section">
 		
 				<!-- Hero Area -->
 				<div class="hero-area">
@@ -151,7 +164,7 @@
 
 			</div>
 
-			<div class="section" data-anchor="second-section">
+			<div class="section" id="second-section">
 				
 				<section id="about-area" class="cr-section about-area section-padding-xlg bg-image-4" data-white-overlay="9.5">
 					<div class="container">
@@ -177,7 +190,7 @@
 
 			</div>
 
-			<div class="section" data-anchor="third-section">
+			<div class="section" id="third-section">
 				
 				<section id="portfolio-area" class="cr-section portfolio-gallery-area section-padding-xlg">
 					<div class="container">
@@ -286,7 +299,7 @@
 
 			</div>
 
-			<div class="section" data-anchor="fourth-section">
+			<div class="section" id="fourth-section">
 
 				<section id="testimonial-area" class="cr-section testimonial-area section-padding-xlg bg-image-5" data-white-overlay="9.5">
 					<div class="container">
@@ -381,7 +394,7 @@
 
 			</div>
 
-			<div class="section" data-anchor="fifth-section">
+			<div class="section" id="fifth-section">
 
 				<!-- Contact Area -->
 				<section id="contact-area" class="cr-section contact-area section-padding-xlg bg-white">
