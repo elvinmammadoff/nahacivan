@@ -68,19 +68,19 @@
                   <nav class="main-navigation">
 					<ul class="section-name">
 						<li class="active">
-							<a href="#first-section">Welcome</a>
+							<a href="index.html#first-section">Welcome</a>
 						</li>
 						<li>
-							<a href="#second-section">About</a>
+							<a href="index.html#second-section">About</a>
 						</li>
 						<li>
-							<a href="#third-section">Portfolios</a>
+							<a href="index.html#third-section">Portfolios</a>
 						</li>
 						<li>
-							<a href="#fourth-section">Testimonials</a>
+							<a href="index.html#fourth-section">Testimonials</a>
 						</li>
 						<li>
-							<a href="#fifth-section">Contact</a>
+							<a href="index.html#fifth-section">Contact</a>
 						</li>
 					</ul>
                   </nav>
