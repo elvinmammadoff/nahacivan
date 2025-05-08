@@ -4326,8 +4326,12 @@ ul.pagination {
 table {
   background: #FFFFFF;
   border: solid 1px #DDDDDD;
+  width: 100%;
   margin-bottom: 1.25rem;
   table-layout: auto; }
+  table tr {
+    border-bottom: 1px solid #ddd;
+  }
   table caption {
     background: transparent;
     color: #222222;
@@ -5306,7 +5310,7 @@ strong,
 b {
   font-weight: bold;
   line-height: inherit; 
-  color: #fff;
+  color: #333;
 }
 
 small {
@@ -5314,8 +5318,8 @@ small {
   line-height: inherit; }
 
 code {
-  color: #10add3;
-  background-color: #182229;
+  color: #333;
+  background-color: #f4f4f4;
   border-radius: 4px;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: normal;
