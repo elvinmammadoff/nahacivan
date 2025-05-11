@@ -2,13 +2,13 @@
 <p><strong>NahaCivan</strong> – Photography Portfolio HTML Template is a responsive and impressive HTML5 template. <strong>NahaCivan</strong> is an all-in-one package that includes unique style and functionality. This creative and pixel perfect design is intuitively for creative minds who are dealing with photography passionately or on a professional basis. <br><br> <strong>NahaCivan</strong> is easy to use, fully responsive and works seamlessly across all devices. Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect website. This Bootstrap 5 based photography portfolio template is the best choice for your outstanding web presence.
 </p>
 
-<p><a href="https://shakill.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://shakill.netlify.app/documentation.png" alt="NahaCivan - Documentation HTML Template"></a><a href="https://themeforest.net/user/alissio/follow"><img src="https://shakill.netlify.app/follow-us.png" alt="Alissio - Follow Us"></a></p>
+<p><a href="https://nahacivan.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://nahacivan.netlify.app/documentation.png" alt="NahaCivan - Documentation HTML Template"></a><a href="https://themeforest.net/user/alissio/follow"><img src="https://nahacivan.netlify.app/follow-us.png" alt="Alissio - Follow Us"></a></p>
 
-<p><img src="https://shakill.netlify.app/shakil-showcase-1.png" alt="NahaCivan - Photography Portfolio HTML Template - 1"></p>
-<a href="https://shakill.netlify.app/splash/#pages" rel="nofollow" target="_blank"><img src="https://shakill.netlify.app/shakil-showcase-2.png" alt="NahaCivan – Photography Portfolio HTML Template - 2"></a>
-<p><img src="https://shakill.netlify.app/shakil-showcase-3.png" alt="NahaCivan - Photography Portfolio HTML Template - 3"></p>
-<p><img src="https://shakill.netlify.app/shakil-showcase-4.png" alt="NahaCivan - Photography Portfolio HTML Template - 4"></p>
-<p><img src="https://shakill.netlify.app/shakil-showcase-5.png" alt="NahaCivan - Photography Portfolio HTML Template - 5"></p>
+<p><img src="https://nahacivan.netlify.app/nahacivan-showcase-1.png" alt="NahaCivan - Photography Portfolio HTML Template - 1"></p>
+<a href="https://nahacivan.netlify.app/splash/#pages" rel="nofollow" target="_blank"><img src="https://nahacivan.netlify.app/nahacivan-showcase-2.png" alt="NahaCivan – Photography Portfolio HTML Template - 2"></a>
+<p><img src="https://nahacivan.netlify.app/nahacivan-showcase-3.png" alt="NahaCivan - Photography Portfolio HTML Template - 3"></p>
+<p><img src="https://nahacivan.netlify.app/nahacivan-showcase-4.png" alt="NahaCivan - Photography Portfolio HTML Template - 4"></p>
+<p><img src="https://nahacivan.netlify.app/nahacivan-showcase-5.png" alt="NahaCivan - Photography Portfolio HTML Template - 5"></p>
 
 <p><strong>NahaCivan</strong> Photography Portfolio is an all-in-one package that includes unique style and functionality. It provides you customizable template to help create dynamic and engaging web pages.</p>
 <p>Most importantly, it helps you to create a unique portfolio of your amazing works and displays your photographs in a distinctive way to amaze everyone. On top of that, there is no need for you to be doing any hard work to stand out because we have added user-friendly codes. With <strong>NahaCivan</strong> you can quickly and easily add stunning pages to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect pages for your website.<br><br>Get <strong>NahaCivan</strong> and take your website to the next level.</p>
@@ -97,12 +97,12 @@
 <ul>
 <li>All images & videos are used for preview demo purposes, But premium images are <strong>INCLUDED</strong> in the purchase package.</li>
 <li>Envato item scope <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
-<li>Included a documentation file for full instruction. Full credits list you can see on this page <a href="https://shakill.netlify.app/documentation/index.html#credits" rel="nofollow" target="_blank">link</a></li>
+<li>Included a documentation file for full instruction. Full credits list you can see on this page <a href="https://nahacivan.netlify.app/documentation/index.html#credits" rel="nofollow" target="_blank">link</a></li>
 </ul>
 <h3 id="item-description__thank-you"><strong>Thank you</strong></h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
 </p>
 
-<p><img src="https://shakill.netlify.app/shakil-showcase-6.png" alt="NahaCivan - Photography Portfolio HTML Template - 6"></p>
+<p><img src="https://nahacivan.netlify.app/nahacivan-showcase-6.png" alt="NahaCivan - Photography Portfolio HTML Template - 6"></p>
 
 
 <h3 id="item-description__change-log"><strong>Change Log:</strong></h3>
