@@ -5,7 +5,7 @@
 <p><a href="https://nahacivan.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://nahacivan.netlify.app/documentation.png" alt="NahaCivan - Documentation HTML Template"></a><a href="https://themeforest.net/user/alissio/follow"><img src="https://nahacivan.netlify.app/follow-us.png" alt="Alissio - Follow Us"></a></p>
 
 <p><img src="https://nahacivan.netlify.app/nahacivan-showcase-1.png" alt="NahaCivan - Photography Portfolio HTML Template - 1"></p>
-<a href="https://nahacivan.netlify.app/splash/#pages" rel="nofollow" target="_blank"><img src="https://nahacivan.netlify.app/nahacivan-showcase-2.png" alt="NahaCivan – Photography Portfolio HTML Template - 2"></a>
+<a href="https://nahacivan.netlify.app/intro/#pages" rel="nofollow" target="_blank"><img src="https://nahacivan.netlify.app/nahacivan-showcase-2.png" alt="NahaCivan – Photography Portfolio HTML Template - 2"></a>
 <p><img src="https://nahacivan.netlify.app/nahacivan-showcase-3.png" alt="NahaCivan - Photography Portfolio HTML Template - 3"></p>
 <p><img src="https://nahacivan.netlify.app/nahacivan-showcase-4.png" alt="NahaCivan - Photography Portfolio HTML Template - 4"></p>
 <p><img src="https://nahacivan.netlify.app/nahacivan-showcase-5.png" alt="NahaCivan - Photography Portfolio HTML Template - 5"></p>
