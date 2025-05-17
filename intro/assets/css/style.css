@@ -272,6 +272,8 @@ a:focus {
     font-family: 'Raleway';
     margin-bottom: 20px;
     color: #252525;
+    display: block;
+    min-height: 56px;
 }
 .demo-title:hover {
     color: #252525;
